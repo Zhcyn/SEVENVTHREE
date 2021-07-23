@@ -1,0 +1,2 @@
+# SEVENVTHREE
+This app allows adding expenses (with persistency), edit categories and view all transactions by day/month. Curenncy amount is converted to the User currency (NZD in this case) and also stored on DB along with the Transaction.  The current project is still under development, and the current stage is mainly for testing the logic process and testing the integrity of the interface. If you encounter problems during the test, please contact us
